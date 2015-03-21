@@ -3,7 +3,7 @@ Most Severe Weather Events Impacting Health and Economy
 
 ## Synopsis
 
-In this report we aim to answer some basic questions about severe weather
+In this report we try to answer some basic questions about severe weather
 events.  Specifically, we try to identify which types of events are the most
 harmful to population health and the most deleterious to the economy.
 To answer these questions, we obtained the storm database from the
